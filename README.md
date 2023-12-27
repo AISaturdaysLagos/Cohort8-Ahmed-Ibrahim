@@ -45,7 +45,7 @@ Prerequisites
 
 
 ## Acknowledgments
- We would like to extend our heartfelt appreciation to the entire AI Saturday Family for their unwavering guidance, world-class materials, and the enriching cohort course that has played a pivotal role in our project's development. Special thanks to our mentor, Emefe, for providing guidance, support, and valuable insights throughout the development of the project. Your mentorship has been crucial to our growth and success. 
+ We would like to extend our heartfelt appreciation to the entire AI Saturday Family for their unwavering guidance, world-class materials, and the enriching cohort course that has played a pivotal role in our project's development. Special thanks to our mentor, Emefa Duah, for providing guidance, support, and valuable insights throughout the development of the project. Your mentorship has been crucial to our growth and success. 
 
 We acknowledge and thank everyone who has been a part of this journey, directly or indirectly, contributing to the success of our project.
 
