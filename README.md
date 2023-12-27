@@ -15,7 +15,7 @@ Currently, there is no comprehensive AI-based solution tailored for predicting b
 4.	Model Evaluation:
 •	Assessed the model's accuracy, reliability, and overall effectiveness using metrics like mean squared error and R-squared.
 5. Model Deployment:
-
+•	The project was deployed locally, and the source codes have been added to this repository
 
 
 ## Getting Started 
