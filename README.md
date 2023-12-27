@@ -45,28 +45,12 @@ Prerequisites
 
 
 ## Acknowledgments
-We would like to express our gratitude to the following individuals who have contributed to or inspired this project:
-
-Theo Peter: Thank you for your dedication and valuable contributions to the project. Your expertise and teamwork have greatly enriched the development process.
-
-Babalola Elisha: Your hard work and creativity have been instrumental in the success of this project. We appreciate your commitment to excellence and collaborative spirit.
-
-Team Mentor Emefe: Special thanks to our mentor, Emefe, for providing guidance, support, and valuable insights throughout the development of the project. Your mentorship has been crucial to our growth and success.
-
-We would like to extend our heartfelt appreciation to the entire AI Saturday Family for their unwavering guidance, world-class materials, and the enriching cohort course that has played a pivotal role in our project's development. 
-
-We also extend our appreciation to the open-source community and the following libraries and resources that have played a significant role in shaping and enhancing our project:
-
-Flask: The lightweight and powerful web framework for Python that forms the backbone of our web application.
-
-Pickle: The Python module used for serializing and deserializing the machine learning model, contributing to the functionality of our project.
-
-GitHub: The platform that hosts our project and facilitates collaboration among team members.
+ We would like to extend our heartfelt appreciation to the entire AI Saturday Family for their unwavering guidance, world-class materials, and the enriching cohort course that has played a pivotal role in our project's development. Special thanks to our mentor, Emefe, for providing guidance, support, and valuable insights throughout the development of the project. Your mentorship has been crucial to our growth and success. 
 
 We acknowledge and thank everyone who has been a part of this journey, directly or indirectly, contributing to the success of our project.
 
 ## Contact
-Theo Peter;
+Peter Oni
   email: theonipeter@gmail.com
   mobile number: +234 805 730 3017
 Babalola Elisha
