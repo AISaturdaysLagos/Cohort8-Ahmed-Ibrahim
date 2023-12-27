@@ -41,7 +41,7 @@ Prerequisites
 2. Run the flask application:
    ``` python main.py ```
    This command will start the development server, and you should see output indicating that the server is running.
-3. Open a web browser and navigate to http://127.0.0.1:[port number]/ to view the running Flask application.
+3. Open a web browser and navigate to http://127.0.0.1:[portNumber]/ to view the running Flask application.
 
 
 ## Acknowledgments
